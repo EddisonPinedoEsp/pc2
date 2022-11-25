@@ -23,6 +23,7 @@ export default {
     },
     adivinarCapital() {
       //TODO: implementar. verifica se la adivinanza es correcta.
+      
     },
   },
 };
